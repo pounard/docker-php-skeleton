@@ -1,0 +1,7 @@
+/.buildpath
+/.env
+/.project
+/.settings
+/app/.env
+/app/phpunit.xml
+/data
